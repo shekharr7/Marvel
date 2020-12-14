@@ -1,19 +1,23 @@
-.App {
+.search-view {
   text-align: center;
 }
 
-.App-logo {
+
+
+
+/*
+.search-view-logo {
   height: 40vmin;
   pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+  .search-view-logo {
+    animation: search-view-logo-spin infinite 20s linear;
   }
 }
 
-.App-header {
+.search-view-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -24,11 +28,11 @@
   color: white;
 }
 
-.App-link {
+.search-view-link {
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
+@keyframes search-view-logo-spin {
   from {
     transform: rotate(0deg);
   }
@@ -36,3 +40,4 @@
     transform: rotate(360deg);
   }
 }
+*/

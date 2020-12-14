@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import './stylesheet/index.scss';
+import SearchView from './views/search-view';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <SearchView />
   </React.StrictMode>,
   document.getElementById('root')
 );
