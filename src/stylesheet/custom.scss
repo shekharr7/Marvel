@@ -1,3 +1,13 @@
+@import "~bootstrap/scss/bootstrap";
+
+.comic-image {
+  width: 100%;
+}
+
 .search-view {
-  text-align: center;
+  padding: 20px 0;
+}
+
+.search-bar__history {
+  background-color: white;
 }
